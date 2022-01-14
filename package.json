@@ -1,0 +1,11 @@
+{
+  "name": "express-auth-test",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "passport": "^0.5.2",
+    "passport-http": "^0.3.0"
+  }
+}
